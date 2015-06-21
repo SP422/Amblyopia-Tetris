@@ -1,28 +1,8 @@
-Javascript Tetris
-=================
+A Javascript Tetris game edited for people with Amblyopia.
+Use Red/Cyan 3d glasses. 
 
-An HTML5 Tetris Game
+Orginal source code for the JavaScript Tetris was created by Jake Gordon. 
+Original Repo: https://github.com/jakesgordon/javascript-tetris.
 
- * [play the game](http://codeincomplete.com/projects/tetris/)
- * read a [blog article](http://codeincomplete.com/posts/2011/10/10/javascript_tetris/)
- * view the [source](https://github.com/jakesgordon/javascript-tetris)
-
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
-
-FUTURE
-======
-
- * menu
- * animation and fx
- * levels
- * high scores
- * touch support
- * music and sound fx
-
-
-License
-=======
-
-[MIT](http://en.wikipedia.org/wiki/MIT_License) license.
 
 
